@@ -1,0 +1,19 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "WebServer Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajlinks1/Homework1.git"
+  },
+  "author": "Amy Janks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajlinks1/Homework1/issues"
+  },
+  "homepage": "https://github.com/ajlinks1/Homework1#readme"
+}
